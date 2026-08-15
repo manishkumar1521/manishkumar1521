@@ -2,14 +2,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Manish%20Kumar&fontAlign=50&fontAlignY=40&color=0:0D1117,100:1F6FEB&fontColor=E6EDF3&desc=AI%20Product%20Engineer%20%C2%B7%20AI-Driven%20Full-Stack%20Developer%20%C2%B7%20Generative%20AI%20Builder%20%C2%B7%20Social%20Media%20Strategist&descAlign=50&descAlignY=62" alt="Animated hero banner for Manish Kumar profile" width="100%" />
 </p>
 
-<h1 align="center">Manish Kumar</h1>
+<h1 align="center">MANISH KUMAR</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=AI+Product+Engineer;AI-Driven+Full-Stack+Developer;Generative+AI+Builder;Social+Media+Strategist;Building+intelligent+products+for+real-world+impact" alt="Typing animation with professional positioning" />
 </p>
 
 <p align="center">
-  Engineering AI-first products, full-stack platforms, and digital growth systems with a startup execution mindset.
+  Engineering Software products, full-stack platforms, and digital growth systems with a startup execution mindset.
 </p>
 
 <p align="center">
@@ -38,9 +38,7 @@ My focus is on turning ambiguous ideas into production-ready systems through str
 
 | Domain | What I Build |
 |---|---|
-| **AI-Powered Applications** | LLM-assisted user experiences, AI copilots, semantic search, workflow intelligence |
 | **Full-Stack Platforms** | Secure web platforms, role-based apps, dashboards, and API-first products |
-| **Generative AI Solutions** | Prompt pipelines, retrieval-augmented systems, and multimodal integrations |
 | **Intelligent Automation** | Event-driven automations, AI-enriched business workflows, task orchestration |
 | **Developer Tools** | Internal tools, debugging utilities, API tooling, productivity accelerators |
 | **SaaS & Product Prototypes** | MVPs and pilot systems designed for rapid validation and iteration |
@@ -145,19 +143,6 @@ My focus is on turning ambiguous ideas into production-ready systems through str
         <a href="https://REPLACE_DEMO_URL_3">Live Demo</a>
       </p>
     </td>
-    <td width="50%">
-      <h3>📣 Digital Growth Engine (Placeholder)</h3>
-      <p><strong>Problem:</strong> Founder-led products need consistent content and engagement systems.</p>
-      <p><strong>Solution:</strong> Built a growth-oriented workflow for planning, scheduling, and performance tracking.</p>
-      <p><strong>Stack:</strong> React · Node.js · Analytics APIs · Automation tools</p>
-      <p><strong>Capability:</strong> Product + growth systems engineering</p>
-      <p>
-        <!-- TODO: Replace with actual repository URL -->
-        <a href="https://github.com/manishkumar1521/REPLACE_PROJECT_REPO_4">GitHub</a> ·
-        <!-- TODO: Replace with actual live/demo URL -->
-        <a href="https://REPLACE_DEMO_URL_4">Live Demo</a>
-      </p>
-    </td>
   </tr>
 </table>
 
@@ -189,10 +174,8 @@ My focus is on turning ambiguous ideas into production-ready systems through str
 
 | Area | Highlights |
 |---|---|
-| Hackathons | <!-- TODO: Add hackathon names, roles, and outcomes --> |
-| Community | <!-- TODO: Add technical communities, organizing roles, contributions --> |
-| Milestones | <!-- TODO: Add notable product/engineering milestones --> |
-
+| Hackathons | <! CIH 2.O AND CIH 3.O FINALIST , SIH INTER UNI QUALIFIERS >|
+| Community | <!-- EVENT ORGANIZER OF VYOM - THE ANNUA FEST AND MICROSOFT BUILD AI HACKATHON > |
 ---
 
 ## Currently Building
@@ -218,39 +201,13 @@ My focus is on turning ambiguous ideas into production-ready systems through str
   <!-- TODO: Replace portfolio URL if different -->
   <a href="https://manishofficial.in/">Portfolio</a> ·
   <!-- TODO: Replace LinkedIn profile URL -->
-  <a href="https://www.linkedin.com/in/REPLACE_WITH_LINKEDIN_HANDLE/">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/manish-kumar-5157a6329/">LinkedIn</a> ·
   <a href="https://github.com/manishkumar1521">GitHub</a> ·
   <!-- TODO: Replace email address -->
-  <a href="mailto:REPLACE_WITH_PROFESSIONAL_EMAIL">Email</a> ·
+  <a href="mailto:manishkumarcse07@gmail.com">Email</a> ·
   <!-- TODO: Replace with additional professional social/profile URL -->
-  <a href="https://REPLACE_SOCIAL_URL">Profile</a>
 </p>
 
 ---
-
-## GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manishkumar1521&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishkumar1521&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=manishkumar1521&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manishkumar1521&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=79C0FF" alt="GitHub activity graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manishkumar1521&theme=onestar&no-frame=true&no-bg=true&margin-w=10" alt="GitHub profile trophies" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,100:1F6FEB" alt="Animated footer wave" width="100%" />
-</p>
 
 <p align="center"><em>Build intelligently. Ship relentlessly. Learn continuously.</em></p>
