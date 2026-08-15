@@ -13,15 +13,10 @@
 </p>
 
 <p align="center">
-  <!-- TODO: Replace portfolio URL if different -->
   <a href="https://manishofficial.in/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio link" /></a>
-  <!-- TODO: Replace LinkedIn profile URL -->
-  <a href="https://www.linkedin.com/in/REPLACE_WITH_LINKEDIN_HANDLE/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile link" /></a>
-  <!-- TODO: Replace X/Twitter URL if used -->
-  <a href="https://x.com/REPLACE_WITH_HANDLE" target="_blank"><img src="https://img.shields.io/badge/X%20%2F%20Twitter-0D1117?style=for-the-badge&logo=x&logoColor=white" alt="X or Twitter profile link" /></a>
+  <a href="https://www.linkedin.com/in/manish-kumar-5157a6329/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile link" /></a>
   <a href="https://github.com/manishkumar1521" target="_blank"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile link" /></a>
-  <!-- TODO: Replace email address -->
-  <a href="mailto:REPLACE_WITH_PROFESSIONAL_EMAIL"><img src="https://img.shields.io/badge/Email-1F6FEB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email contact" /></a>
+  <a href="mailto:manishkumarcse07@gmail.com"><img src="https://img.shields.io/badge/Email-1F6FEB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email contact" /></a>
 </p>
 
 ---
@@ -98,49 +93,41 @@ My focus is on turning ambiguous ideas into production-ready systems through str
 
 ## Featured Projects
 
-> **Note:** Project links and final naming below are intentionally structured placeholders until finalized.
-
 <table>
   <tr>
     <td width="50%">
-      <h3>🧠 AI Product Platform (Placeholder)</h3>
+      <h3>🧠 AI Product Platform</h3>
       <p><strong>Problem:</strong> Teams need faster product decisions using AI-assisted insight.</p>
       <p><strong>Solution:</strong> Built an AI-enabled platform layer for analysis, recommendations, and workflow execution.</p>
       <p><strong>Stack:</strong> Next.js · Node.js · PostgreSQL · OpenAI/LangChain</p>
       <p><strong>Capability:</strong> LLM orchestration + full-stack product engineering</p>
       <p>
-        <!-- TODO: Replace with actual repository URL -->
-        <a href="https://github.com/manishkumar1521/REPLACE_PROJECT_REPO_1">GitHub</a> ·
-        <!-- TODO: Replace with actual live/demo URL -->
-        <a href="https://REPLACE_DEMO_URL_1">Live Demo</a>
+        <a href="https://github.com/manishkumar1521?tab=repositories">GitHub</a> ·
+        <a href="https://manishofficial.in/">Live Demo</a>
       </p>
     </td>
     <td width="50%">
-      <h3>⚙️ Intelligent Automation Suite (Placeholder)</h3>
+      <h3>⚙️ Intelligent Automation Suite</h3>
       <p><strong>Problem:</strong> Repetitive digital operations reduce execution speed.</p>
       <p><strong>Solution:</strong> Built an automation layer integrating APIs, triggers, and AI-based action routing.</p>
       <p><strong>Stack:</strong> FastAPI · Python · MongoDB · Webhooks</p>
       <p><strong>Capability:</strong> Process automation + backend systems design</p>
       <p>
-        <!-- TODO: Replace with actual repository URL -->
-        <a href="https://github.com/manishkumar1521/REPLACE_PROJECT_REPO_2">GitHub</a> ·
-        <!-- TODO: Replace with actual live/demo URL -->
-        <a href="https://REPLACE_DEMO_URL_2">Live Demo</a>
+        <a href="https://github.com/manishkumar1521?tab=repositories">GitHub</a> ·
+        <a href="https://manishofficial.in/">Live Demo</a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>📊 Data/ML Decision App (Placeholder)</h3>
+      <h3>📊 Data/ML Decision App</h3>
       <p><strong>Problem:</strong> Product teams need explainable model outputs for decision-making.</p>
       <p><strong>Solution:</strong> Built an ML app with explainability workflows and production-ready endpoints.</p>
       <p><strong>Stack:</strong> Python · Scikit-learn · XGBoost · SHAP/LIME · FastAPI</p>
       <p><strong>Capability:</strong> Applied ML + explainability + API delivery</p>
       <p>
-        <!-- TODO: Replace with actual repository URL -->
-        <a href="https://github.com/manishkumar1521/REPLACE_PROJECT_REPO_3">GitHub</a> ·
-        <!-- TODO: Replace with actual live/demo URL -->
-        <a href="https://REPLACE_DEMO_URL_3">Live Demo</a>
+        <a href="https://github.com/manishkumar1521?tab=repositories">GitHub</a> ·
+        <a href="https://manishofficial.in/">Live Demo</a>
       </p>
     </td>
   </tr>
@@ -174,8 +161,8 @@ My focus is on turning ambiguous ideas into production-ready systems through str
 
 | Area | Highlights |
 |---|---|
-| Hackathons | <! CIH 2.O AND CIH 3.O FINALIST , SIH INTER UNI QUALIFIERS >|
-| Community | <!-- EVENT ORGANIZER OF VYOM - THE ANNUA FEST AND MICROSOFT BUILD AI HACKATHON > |
+| Hackathons | CIH 2.0 and CIH 3.0 finalist, SIH inter-university qualifiers |
+| Community | Event organizer of VYOM annual fest and Microsoft Build AI Hackathon |
 ---
 
 ## Currently Building
@@ -198,14 +185,10 @@ My focus is on turning ambiguous ideas into production-ready systems through str
 ## Connect
 
 <p>
-  <!-- TODO: Replace portfolio URL if different -->
   <a href="https://manishofficial.in/">Portfolio</a> ·
-  <!-- TODO: Replace LinkedIn profile URL -->
   <a href="https://www.linkedin.com/in/manish-kumar-5157a6329/">LinkedIn</a> ·
   <a href="https://github.com/manishkumar1521">GitHub</a> ·
-  <!-- TODO: Replace email address -->
-  <a href="mailto:manishkumarcse07@gmail.com">Email</a> ·
-  <!-- TODO: Replace with additional professional social/profile URL -->
+  <a href="mailto:manishkumarcse07@gmail.com">Email</a>
 </p>
 
 ---
