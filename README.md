@@ -5,7 +5,7 @@
 <h1 align="center">MANISH KUMAR</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=AI+Product+Engineer;AI-Driven+Full-Stack+Developer;Generative+AI+Builder;Social+Media+Strategist;Building+intelligent+products+for+real-world+impact" alt="Typing animation with professional positioning" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=AI-Driven+Full-Stack+Developer;Generative+AI+Builder;Social+Media+Strategist;Building+intelligent+products+for+real-world+impact" alt="Typing animation with professional positioning" />
 </p>
 
 <p align="center">
