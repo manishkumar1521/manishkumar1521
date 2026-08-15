@@ -1,30 +1,256 @@
-<h1 align="center">Hi 👋, I'm MANISH KUMAR</h1>
-<h3 align="center">HI MANISH HERE ! AI/ML Engineer & Software Developer Let's Build something !</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manishkumar1521&label=Profile%20views&color=0e75b6&style=flat" alt="manishkumar1521" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manishkumar1521" alt="manishkumar1521" /></a> </p>
-
-- 🔭 I’m currently working on **FINTECH PLATFORM**
-
-- 🌱 I’m currently learning **GEN AI,AGENTIC AI SYSTEMS AND DOCKER**
-
-- 👯 I’m looking to collaborate on **AI-ML PROJECTS**
-
-- 👨‍💻 All of my projects are available at [https://manishofficial.in/](https://manishofficial.in/)
-
-- 💬 Ask me about **MERN STACK AND ML**
-
-- 📫 How to reach me **manishkumarcse07@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/manish-kumar-5157a6329/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manish-kumar-5157a6329/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Manish%20Kumar&fontAlign=50&fontAlignY=40&color=0:0D1117,100:1F6FEB&fontColor=E6EDF3&desc=AI%20Product%20Engineer%20%C2%B7%20AI-Driven%20Full-Stack%20Developer%20%C2%B7%20Generative%20AI%20Builder%20%C2%B7%20Social%20Media%20Strategist&descAlign=50&descAlignY=62" alt="Animated hero banner for Manish Kumar profile" width="100%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<h1 align="center">Manish Kumar</h1>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manishkumar1521&show_icons=true&locale=en&layout=compact" alt="manishkumar1521" /></p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=AI+Product+Engineer;AI-Driven+Full-Stack+Developer;Generative+AI+Builder;Social+Media+Strategist;Building+intelligent+products+for+real-world+impact" alt="Typing animation with professional positioning" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manishkumar1521&show_icons=true&locale=en" alt="manishkumar1521" /></p>
+<p align="center">
+  Engineering AI-first products, full-stack platforms, and digital growth systems with a startup execution mindset.
+</p>
+
+<p align="center">
+  <!-- TODO: Replace portfolio URL if different -->
+  <a href="https://manishofficial.in/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio link" /></a>
+  <!-- TODO: Replace LinkedIn profile URL -->
+  <a href="https://www.linkedin.com/in/REPLACE_WITH_LINKEDIN_HANDLE/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile link" /></a>
+  <!-- TODO: Replace X/Twitter URL if used -->
+  <a href="https://x.com/REPLACE_WITH_HANDLE" target="_blank"><img src="https://img.shields.io/badge/X%20%2F%20Twitter-0D1117?style=for-the-badge&logo=x&logoColor=white" alt="X or Twitter profile link" /></a>
+  <a href="https://github.com/manishkumar1521" target="_blank"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile link" /></a>
+  <!-- TODO: Replace email address -->
+  <a href="mailto:REPLACE_WITH_PROFESSIONAL_EMAIL"><img src="https://img.shields.io/badge/Email-1F6FEB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email contact" /></a>
+</p>
+
+---
+
+## Introduction
+
+I build software at the intersection of **AI, product engineering, and growth execution**—from intelligent features and AI workflows to full-stack platforms that are designed to ship fast and scale responsibly.
+
+My focus is on turning ambiguous ideas into production-ready systems through strong architecture, practical ML/LLM integration, and measurable product thinking. I’m especially interested in startup environments where engineering, experimentation, and digital growth move together.
+
+---
+
+## What I Build
+
+| Domain | What I Build |
+|---|---|
+| **AI-Powered Applications** | LLM-assisted user experiences, AI copilots, semantic search, workflow intelligence |
+| **Full-Stack Platforms** | Secure web platforms, role-based apps, dashboards, and API-first products |
+| **Generative AI Solutions** | Prompt pipelines, retrieval-augmented systems, and multimodal integrations |
+| **Intelligent Automation** | Event-driven automations, AI-enriched business workflows, task orchestration |
+| **Developer Tools** | Internal tools, debugging utilities, API tooling, productivity accelerators |
+| **SaaS & Product Prototypes** | MVPs and pilot systems designed for rapid validation and iteration |
+| **Data / ML Apps** | Prediction, analytics, model explainability, and decision-support tooling |
+| **Digital Growth Systems** | Content + engagement workflows, social-media automation, growth experimentation |
+
+---
+
+## Tech Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript" alt="Python, JavaScript, TypeScript" />
+  <img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+</p>
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" alt="React, Next.js, Tailwind CSS, Vite" />
+  <img src="https://img.shields.io/badge/React%20Native-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+</p>
+
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" alt="Node.js, Express.js, FastAPI" />
+  <img src="https://img.shields.io/badge/REST%20APIs-1F6FEB?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
+</p>
+
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres" alt="MongoDB, PostgreSQL" />
+</p>
+
+### AI / Machine Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" alt="PyTorch, TensorFlow" />
+  <img src="https://img.shields.io/badge/Scikit--learn-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/XGBoost-0D1117?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost" />
+  <img src="https://img.shields.io/badge/SHAP-1F6FEB?style=for-the-badge" alt="SHAP" />
+  <img src="https://img.shields.io/badge/LIME-1F6FEB?style=for-the-badge" alt="LIME" />
+  <img src="https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge" alt="LangChain" />
+  <img src="https://img.shields.io/badge/OpenAI-0D1117?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Gemini-0D1117?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Vertex%20AI-0D1117?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Vertex AI" />
+</p>
+
+### DevOps / Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,netlify" alt="Docker, Kubernetes, Git, GitHub, Netlify" />
+  <img src="https://img.shields.io/badge/CI%2FCD-1F6FEB?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
+</p>
+
+### Engineering Focus
+`REST APIs` · `API Integration` · `Authentication` · `Environment Configuration` · `Debugging` · `System Architecture`
+
+---
+
+## Featured Projects
+
+> **Note:** Project links and final naming below are intentionally structured placeholders until finalized.
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🧠 AI Product Platform (Placeholder)</h3>
+      <p><strong>Problem:</strong> Teams need faster product decisions using AI-assisted insight.</p>
+      <p><strong>Solution:</strong> Built an AI-enabled platform layer for analysis, recommendations, and workflow execution.</p>
+      <p><strong>Stack:</strong> Next.js · Node.js · PostgreSQL · OpenAI/LangChain</p>
+      <p><strong>Capability:</strong> LLM orchestration + full-stack product engineering</p>
+      <p>
+        <!-- TODO: Replace with actual repository URL -->
+        <a href="https://github.com/manishkumar1521/REPLACE_PROJECT_REPO_1">GitHub</a> ·
+        <!-- TODO: Replace with actual live/demo URL -->
+        <a href="https://REPLACE_DEMO_URL_1">Live Demo</a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3>⚙️ Intelligent Automation Suite (Placeholder)</h3>
+      <p><strong>Problem:</strong> Repetitive digital operations reduce execution speed.</p>
+      <p><strong>Solution:</strong> Built an automation layer integrating APIs, triggers, and AI-based action routing.</p>
+      <p><strong>Stack:</strong> FastAPI · Python · MongoDB · Webhooks</p>
+      <p><strong>Capability:</strong> Process automation + backend systems design</p>
+      <p>
+        <!-- TODO: Replace with actual repository URL -->
+        <a href="https://github.com/manishkumar1521/REPLACE_PROJECT_REPO_2">GitHub</a> ·
+        <!-- TODO: Replace with actual live/demo URL -->
+        <a href="https://REPLACE_DEMO_URL_2">Live Demo</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>📊 Data/ML Decision App (Placeholder)</h3>
+      <p><strong>Problem:</strong> Product teams need explainable model outputs for decision-making.</p>
+      <p><strong>Solution:</strong> Built an ML app with explainability workflows and production-ready endpoints.</p>
+      <p><strong>Stack:</strong> Python · Scikit-learn · XGBoost · SHAP/LIME · FastAPI</p>
+      <p><strong>Capability:</strong> Applied ML + explainability + API delivery</p>
+      <p>
+        <!-- TODO: Replace with actual repository URL -->
+        <a href="https://github.com/manishkumar1521/REPLACE_PROJECT_REPO_3">GitHub</a> ·
+        <!-- TODO: Replace with actual live/demo URL -->
+        <a href="https://REPLACE_DEMO_URL_3">Live Demo</a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3>📣 Digital Growth Engine (Placeholder)</h3>
+      <p><strong>Problem:</strong> Founder-led products need consistent content and engagement systems.</p>
+      <p><strong>Solution:</strong> Built a growth-oriented workflow for planning, scheduling, and performance tracking.</p>
+      <p><strong>Stack:</strong> React · Node.js · Analytics APIs · Automation tools</p>
+      <p><strong>Capability:</strong> Product + growth systems engineering</p>
+      <p>
+        <!-- TODO: Replace with actual repository URL -->
+        <a href="https://github.com/manishkumar1521/REPLACE_PROJECT_REPO_4">GitHub</a> ·
+        <!-- TODO: Replace with actual live/demo URL -->
+        <a href="https://REPLACE_DEMO_URL_4">Live Demo</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Engineering Approach
+
+1. **Understand the problem** — users, constraints, and target outcomes.
+2. **Design the product** — prioritize experience, usability, and business value.
+3. **Build the architecture** — scalable services, clean interfaces, resilient integrations.
+4. **Integrate AI intelligently** — use LLM/ML where it creates real leverage.
+5. **Test and iterate** — validate assumptions through rapid feedback loops.
+6. **Deploy** — ship cleanly with environment control and release discipline.
+7. **Measure** — track behavior, quality, and product performance signals.
+8. **Improve** — continuously optimize based on data and real usage.
+
+---
+
+## Experience / Community
+
+- Contributing across **engineering + product + digital strategy** workflows.
+- Active in **developer and AI learning communities**.
+- Interested in **hackathons, collaborative builds, and startup execution cycles**.
+- Bridging technical implementation with communication and growth distribution.
+
+---
+
+## Hackathons & Achievements
+
+| Area | Highlights |
+|---|---|
+| Hackathons | <!-- TODO: Add hackathon names, roles, and outcomes --> |
+| Community | <!-- TODO: Add technical communities, organizing roles, contributions --> |
+| Milestones | <!-- TODO: Add notable product/engineering milestones --> |
+
+---
+
+## Currently Building
+
+- AI-enabled product workflows for real-world use cases
+- Full-stack SaaS prototypes with rapid iteration loops
+- Generative AI integrations for better product experiences
+- Automation-first systems for technical and growth execution
+
+## Learning / Exploring
+
+- AI agents and multi-agent coordination patterns
+- LLM application architecture and evaluation pipelines
+- Production ML lifecycle and model reliability
+- Scalable backend systems and cloud-native deployment
+- Developer tooling for faster shipping and debugging
+
+---
+
+## Connect
+
+<p>
+  <!-- TODO: Replace portfolio URL if different -->
+  <a href="https://manishofficial.in/">Portfolio</a> ·
+  <!-- TODO: Replace LinkedIn profile URL -->
+  <a href="https://www.linkedin.com/in/REPLACE_WITH_LINKEDIN_HANDLE/">LinkedIn</a> ·
+  <a href="https://github.com/manishkumar1521">GitHub</a> ·
+  <!-- TODO: Replace email address -->
+  <a href="mailto:REPLACE_WITH_PROFESSIONAL_EMAIL">Email</a> ·
+  <!-- TODO: Replace with additional professional social/profile URL -->
+  <a href="https://REPLACE_SOCIAL_URL">Profile</a>
+</p>
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manishkumar1521&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishkumar1521&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=manishkumar1521&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manishkumar1521&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=79C0FF" alt="GitHub activity graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=manishkumar1521&theme=onestar&no-frame=true&no-bg=true&margin-w=10" alt="GitHub profile trophies" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,100:1F6FEB" alt="Animated footer wave" width="100%" />
+</p>
+
+<p align="center"><em>Build intelligently. Ship relentlessly. Learn continuously.</em></p>
